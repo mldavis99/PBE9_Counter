@@ -1,11 +1,12 @@
 "
 `Counter` is a simple concrete class which supports incrementing and
 decrementing.
+""From Chapter 5 of PBE9""
 Its API is
 - `decrement` and `increment`
 - `count`
 Its creation message is `startAt:`
-""From Chapter 5 of PBE9""
+
 "
 Class {
 	#name : #Counter,
