@@ -5,6 +5,7 @@ Its API is
 - `decrement` and `increment`
 - `count`
 Its creation message is `startAt:`
+""From Chapter 5 of PBE9""
 "
 Class {
 	#name : #Counter,
