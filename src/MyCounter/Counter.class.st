@@ -48,6 +48,11 @@ Counter >> initialize [
 	count := 0
 ]
 
+{ #category : #inspector }
+Counter >> inspectIt [
+	self shouldBeImplemented.
+]
+
 { #category : #accessing }
 Counter >> printOn: aStream [
 	super printOn: aStream.
